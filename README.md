@@ -10,11 +10,11 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 5. Determine the winner of the election based on popular vote.
 
 ## Resoureces
-- Data source: election_rresults.csv
+- Data source: election_results.csv
 - software: Python 3.10.2, VS Code 1.65.2
 
 ## Summary
-The analysis of the elction shows that:
+The analysis of the election shows that:
 - There were 369,711 votes cast in the election
 - The candidates were:
   - Charles Casper Stockham
